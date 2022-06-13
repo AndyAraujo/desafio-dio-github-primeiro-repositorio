@@ -1,0 +1,4 @@
+cd - Change Diretory - Comando para navegar entre as pastas 
+ctrl+l = Comando Clean - Limpa o terminal, para facilitar visualmente
+ls = Comando list - Lista todos os arquivos e pastas dentro do diretório 
+cd .. = Volta para o diretório anterior ao atual
