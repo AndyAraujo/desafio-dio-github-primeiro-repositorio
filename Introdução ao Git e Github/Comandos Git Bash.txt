@@ -1,4 +1,26 @@
+mkdir - make diretory - Cria nova pasta
 cd - Change Diretory - Comando para navegar entre as pastas 
 ctrl+l = Comando Clean - Limpa o terminal, para facilitar visualmente
 ls = Comando list - Lista todos os arquivos e pastas dentro do diretório 
 cd .. = Volta para o diretório anterior ao atual
+ls -a = lista arquivos ocultos 
+q = quit - sair
+
+Git
+
+git init = Cria um repositório novo na pasta atual 
+git add = 
+git commit = 
+git config -- list = Lista configurações estão especificamente no git 
+
+Caso precise alterar nickname e email:
+git config --global --unset user.email 
+enter
+seta pra cima (navega nas op~ções) 
+(isso faz com que seja removido essa configuração, se listar novamente user.email (por ex) não estará disponível 
+
+para adicionar email ou nickname:
+git config --global user.email "anderson.araujosud@gmail.com"
+(retirar o unset e acrescentar o email que irá utilizar) (será a mesma coisa para o nickname)
+
+
